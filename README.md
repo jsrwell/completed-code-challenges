@@ -2,6 +2,9 @@
 ## Descrição
 Este projeto consiste em criar um cartão de apresentação de habilidades técnicas utilizando HTML e CSS. O objetivo é apresentar de forma clara e concisa quais as tecnologias, linguagens e frameworks que tenho conhecimento.
 
+## Acesso a página
+Visualize este projeto em seu navegador pelo seguinte link: https://jsrwell.github.io/jsrwell-card/
+
 ## Motivação
 A motivação para este projeto surgiu da necessidade de apresentar de forma objetiva minhas habilidades técnicas para potenciais empregadores e clientes. Com este cartão de apresentação, pretendo mostrar de forma visual e interativa quais são as minhas habilidades.
 
